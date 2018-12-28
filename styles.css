@@ -1,0 +1,103 @@
+ .art1 {
+float: right;
+font-family: "Times New Roman", Arial, serif;
+font-size: 18px;
+margin-left: 15px;
+margin-top: 0px;
+}
+ .art2 {
+float: left;
+}
+
+.head{
+font-size: 180%;
+color: blue;
+	opacity: 0.5;
+	font-family: "ArtScript TYGRA";
+	src = "13033.ttf";
+}
+body.b1{
+background-image: linear-gradient(0deg,rgba(0, 77, 255, 0.3),#F5F5DC);
+}
+.w{
+float: left;
+padding: 20 px;
+margin: 20 px;
+}
+.w1{
+	
+	float: right;
+	padding: 20 px;
+margin: 20 px;
+}
+#main{
+	background-color: linear-gradient(0deg,rgba(0, 77, 255, 0.3),#F5F5DC);
+	padding-left: 30px;
+	margin-left: 350px;
+	margin-right: 350px;
+	border: solid balck;
+	text-align: justify;' 
+}
+#main p{text-indent: 35px;}
+#main br{text-indent: 35px;}
+.vhod{
+                margin: 100px; /* внешний отступ */
+                padding: 50px; /* внутренний отступ */
+				margin-left: 450px; /* отступ слева */
+				margin-right: 400px; /* отступ слева */
+                border: 30px; /* граница */
+				background-color: white;
+				border-radius: 20px;
+            }
+
+.registr{
+                margin: 30px; /* внешний отступ */
+                padding: 50px; /* внутренний отступ */
+				margin-left: 550px; /* отступ слева */
+				margin-right: 500px; /* отступ слева */
+                border: 100px; /* граница */
+				background-color: white;
+				border-radius: 30px;
+            }
+.bron{
+                margin: 5px; /* внешний отступ */
+                padding: 25px; /* внутренний отступ */
+				margin-left: 550px; /* отступ слева */
+				margin-right: 500px; /* отступ слева */
+                border: 100px; /* граница */
+				background-color: white;
+				border-radius: 30px;
+            }
+.butt{
+	background-color: rgba(0, 77, 255, 0.5);
+	height: 30px;
+	border: rgba(0, 77, 255, 0.5);
+	border-radius: 20px;
+	width: 150px;
+	}
+ul.hr {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+   }
+ul.hr li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 25px; /* Отступ слева */
+    padding: 1px; /* Поля вокруг текста */}
+ul.nav{
+	margin-left: 0px;
+    padding-left: 0px;
+    list-style: none;
+}
+.nav li{
+	display: inline;
+}
+ul.nav a{
+	display: inline-block;
+	width: 220px;
+                padding:10px;
+                background-color: rgba(0, 77, 255, 0.4);
+                border: 1px outset #333;
+                text-decoration: none;
+                color: #333;
+                text-align: center;
+}
